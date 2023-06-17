@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'gooddog_plainregular';
-    src: url('fonts/gooddp__-webfont.eot'),
-         url('fonts/gooddp__-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('fonts/gooddp__-webfont.eot');
+    src: url('fonts/gooddp__-webfont.eot?#iefix') format('embedded-opentype'),
          url('fonts/gooddp__-webfont.woff2') format('woff2'),
          url('fonts/gooddp__-webfont.woff') format('woff'),
          url('fonts/gooddp__-webfont.ttf') format('truetype'),
