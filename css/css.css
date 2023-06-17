@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'gooddog_plainregular';
-    src: url('../AdrianDrummis/fonts/gooddp__-webfont.eot');
-    src: url('../AdrianDrummis/fonts/gooddp__-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../AdrianDrummis/fonts/gooddp__-webfont.woff2') format('woff2'),
-         url('../AdrianDrummis/fonts/gooddp__-webfont.woff') format('woff'),
-         url('../AdrianDrummis/fonts/gooddp__-webfont.ttf') format('truetype'),
-         url('../AdrianDrummis/fonts/gooddp__-webfont.svg#gooddog_plainregular') format('svg');
+    src: url('../../AdrianDrummis/fonts/gooddp__-webfont.eot');
+    src: url('../../AdrianDrummis/fonts/gooddp__-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../AdrianDrummis/fonts/gooddp__-webfont.woff2') format('woff2'),
+         url('../../AdrianDrummis/fonts/gooddp__-webfont.woff') format('woff'),
+         url('../../AdrianDrummis/fonts/gooddp__-webfont.ttf') format('truetype'),
+         url('../../AdrianDrummis/fonts/gooddp__-webfont.svg#gooddog_plainregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
