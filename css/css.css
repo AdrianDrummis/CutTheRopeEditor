@@ -35,6 +35,10 @@ font-weight:normal;
 font-style:normal;
 font-size: 30px;
 color:white;
+text-shadow: -1px 1px 2px #000,
+				  1px 2px 6px #000,
+				  1px -1px 0 #000,
+				  -1px -1px 0 #000;
 }
  h4 {
 font-family: gooddog_plainregular, sans-serif;
@@ -42,6 +46,10 @@ font-weight:normal;
 font-style:normal;
 font-size: 25px;
 color:white;
+text-shadow: -1px 1px 2px #000,
+				  1px 2px 6px #000,
+				  1px -1px 0 #000,
+				  -1px -1px 0 #000;
 }
  p {
 font-family: gooddog_plainregular, sans-serif;
@@ -49,6 +57,10 @@ font-weight:normal;
 font-style:normal;
 font-size: 25px;
 color:white;
+text-shadow: -1px 1px 2px #000,
+				  1px 2px 6px #000,
+				  1px -1px 0 #000,
+				  -1px -1px 0 #000;
 }
  a {
 font-family: gooddog_plainregular, sans-serif;
