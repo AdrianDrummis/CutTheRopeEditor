@@ -13,7 +13,33 @@ font-weight:normal;
 font-style:normal;
 color:white;
 }
-/*im about to fucking explode*/
-p {
-    color:white;
+ h2 {
+font-family: gooddog_plainregular, sans-serif;
+font-weight:normal;
+font-style:normal;
+color:white;
+}
+ h3 {
+font-family: gooddog_plainregular, sans-serif;
+font-weight:normal;
+font-style:normal;
+color:white;
+}
+ h4 {
+font-family: gooddog_plainregular, sans-serif;
+font-weight:normal;
+font-style:normal;
+color:white;
+}
+ p {
+font-family: gooddog_plainregular, sans-serif;
+font-weight:normal;
+font-style:normal;
+color:white;
+}
+ a {
+font-family: gooddog_plainregular, sans-serif;
+font-weight:normal;
+font-style:normal;
+color: #8cfffb;
 }
