@@ -10,6 +10,7 @@
   h1 {
 font-family: gooddog_plainregular, sans-serif;
 font-weight:normal;
+font-size: 40px;
 font-style:normal;
 color:white;
 }
@@ -17,24 +18,28 @@ color:white;
 font-family: gooddog_plainregular, sans-serif;
 font-weight:normal;
 font-style:normal;
+font-size: 35px;
 color:white;
 }
  h3 {
 font-family: gooddog_plainregular, sans-serif;
 font-weight:normal;
 font-style:normal;
+font-size: 30px;
 color:white;
 }
  h4 {
 font-family: gooddog_plainregular, sans-serif;
 font-weight:normal;
 font-style:normal;
+font-size: 25px;
 color:white;
 }
  p {
 font-family: gooddog_plainregular, sans-serif;
 font-weight:normal;
 font-style:normal;
+font-size: 25px;
 color:white;
 }
  a {
