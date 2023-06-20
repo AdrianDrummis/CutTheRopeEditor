@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'gooddog_plainregular';
-    src: url('../CutTheRopeEditor/fonts/gooddp__-webfont.woff2') format('woff2'),
-         url('../CutTheRopeEditor/fonts/gooddp__-webfont.woff') format('woff'),
-         url('../CutTheRopeEditor/fonts/gooddp__-webfont.ttf') format('truetype'),
-         url('../CutTheRopeEditor/fonts/gooddp__-webfont.svg#gooddog_plainregular') format('svg');
+    src: url('../../CutTheRopeEditor/fonts/gooddp__-webfont.woff2') format('woff2'),
+         url('../../CutTheRopeEditor/fonts/gooddp__-webfont.woff') format('woff'),
+         url('../../CutTheRopeEditor/fonts/gooddp__-webfont.ttf') format('truetype'),
+         url('../../CutTheRopeEditor/fonts/gooddp__-webfont.svg#gooddog_plainregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
