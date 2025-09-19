@@ -68,3 +68,10 @@ font-weight:normal;
 font-style:normal;
 color: #8cfffb;
 }
+
+body {
+	background-image: url("https://adriandrummis.github.io/CutTheRopeEditor/images/bgr.avif"),url("https://adriandrummis.github.io/CutTheRopeEditor/images/bgr2.avif");
+	background-color: #5D67A3;
+	background-size: 100vmax, 100vmax;
+	background-repeat: no-repeat, repeat;
+}
